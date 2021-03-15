@@ -6,6 +6,11 @@ body {
     font-family: Verdana;
 }
 
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
 h1, h2 {
     color: white;
 }
@@ -41,3 +46,6 @@ h1 {
 
 
 /**** Footer ****/
+.copyright {
+    text-align: right;
+}
