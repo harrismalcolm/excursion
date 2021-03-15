@@ -1,0 +1,32 @@
+/*** Universal Styles ***/
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/**** Header ****/
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+
+/**** Nav ****/
+
+
+/**** Main ****/
+
+
+/**** Section ****/
+
+
+/**** Footer ****/
